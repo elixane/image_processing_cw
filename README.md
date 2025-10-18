@@ -31,7 +31,7 @@ The provided dataset contains 100 images affected by noise, warping, brightness 
 
 ---
 
-## Files
+## Repository Structure
 
 ```
 ├── main.py              # Image processing pipeline implementation
