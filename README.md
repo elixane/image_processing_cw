@@ -1,4 +1,4 @@
-# Image Processing Coursework – COMP2271
+# Image Processing Coursework – Data Science
 
 ## Overview
 
